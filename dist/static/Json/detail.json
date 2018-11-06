@@ -1,0 +1,20 @@
+{
+    "status":1,
+    "result":{
+        "lists":[
+            {
+                "id":1,
+                 "picture":["../../../static/img/detail/2018110223231761588.png","../../../static/img/detail/2018110223234277241.png"],
+                 "title":"2018秋季新款时尚套装韩版中长款撞色纹理编织套头毛衣女百搭该套显瘦蕾丝连衣裙两件套",
+                 "price":"49~119",
+                 "delprice":"70.00",
+                 "type":["毛衣单买","蕾丝裙单买","套装购买"],
+                 "size":["S","M","L"],
+                 "number":1,
+                 "stock":1254,
+                 "listpic":["../../../static/img/detail/sm2018110514405318236.png"],
+                 "buyprice":"119"
+             }
+        ]
+    }
+}
