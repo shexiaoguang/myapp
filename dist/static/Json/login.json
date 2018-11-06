@@ -1,0 +1,15 @@
+{
+	"status":1,
+	"user":{
+		"lists":[
+		 {
+		 	"id":1,
+		 	"name":"佘晓光",
+		 	"iphone":17665437418,
+		 	"password":123456,
+		 	"head":"../../../static/img/icon/myavaet.png",
+		 	"email":"731701904@qq.com" 	
+		 }
+		]
+	}
+}
